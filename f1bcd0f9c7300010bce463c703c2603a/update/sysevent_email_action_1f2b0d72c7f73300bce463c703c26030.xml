@@ -2,7 +2,7 @@
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>true</action_insert>
         <action_update>true</action_update>
-        <active>false</active>
+        <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
@@ -61,7 +61,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1f2b0d72c7f73300bce463c703c26030</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Action Assigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="Project Status Report" source="sn_store_ppmmobile">f1bcd0f9c7300010bce463c703c2603a</sys_package>
@@ -70,7 +70,7 @@
         <sys_scope display_value="Project Status Report">f1bcd0f9c7300010bce463c703c2603a</sys_scope>
         <sys_update_name>sysevent_email_action_1f2b0d72c7f73300bce463c703c26030</sys_update_name>
         <sys_updated_by>angel.marquez</sys_updated_by>
-        <sys_updated_on>2021-07-12 15:16:51</sys_updated_on>
+        <sys_updated_on>2021-07-12 15:21:36</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
